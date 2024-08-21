@@ -1,0 +1,5 @@
+com\kgisl\capitalmarketing\DatabaseConnection.class
+com\kgisl\capitalmarketing\pojo\Template.class
+com\kgisl\capitalmarketing\HelloServlet.class
+com\kgisl\capitalmarketing\pojo\Stock.class
+com\kgisl\capitalmarketing\service\ServicStock.class
